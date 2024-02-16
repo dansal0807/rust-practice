@@ -36,7 +36,7 @@ To dive into these projects, ensure you have Rust and Cargo installed on your ma
 To run any project, clone this repository, navigate into the project's directory, and use Cargo to build and run the project:
 
 ```bash
-git clone https://github.com/yourusername/rust-practice.git
+git clone https://github.com/dansal0807/rust-practice.git
 cd rust-practice/project-directory
 cargo run
 ```
@@ -100,7 +100,7 @@ Para mergulhar nesses projetos, certifique-se de ter o Rust e o Cargo instalados
 Para executar qualquer projeto, clone este repositório, navegue até o diretório do projeto e use o Cargo para construir e executar o projeto:
 
 ```bash
-git clone https://github.com/yourusername/rust-practice.git
+git clone https://github.com/dansal0807/rust-practice.git
 cd rust-practice/diretorio-do-projeto
 cargo run
 ```
