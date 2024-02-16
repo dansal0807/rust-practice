@@ -58,3 +58,52 @@ Here are some resources that I used:
 
 ## Contribution
 Feel free to contribute to any of the projects by submitting pull requests or opening issues for any bugs or enhancements you identify. Your contributions are highly appreciated!
+
+-------------------------------------------------------------------
+
+[Pt-br]
+
+[PT-BR]
+# Projetos de Aprendizado em Rust
+
+Bem-vindo à minha coleção de projetos de aprendizado em Rust! Este repositório é dedicado a explorar, aprender e praticar os recursos comuns da linguagem de programação Rust por meio de uma série de projetos pequenos e focados. Cada projeto aborda diferentes aspectos do Rust, tornando esta compilação um guia abrangente para qualquer pessoa que deseje aprofundar seu entendimento da linguagem.
+
+## Introdução
+
+Rust é uma linguagem de programação de sistemas moderna que oferece segurança de memória, concorrência e alto desempenho. É projetada para incentivar a escrita de código limpo e eficiente. Este repositório representa minha jornada através do Rust, exibindo projetos que variam desde a sintaxe básica e conceitos até características mais complexas da linguagem.
+
+## Visão Geral dos Projetos
+
+Aqui está um resumo do que cada projeto foca:
+
+- **caracteres_unicos:** Explore como identificar caracteres únicos dentro de strings.
+- **fatorial:** Implemente a função matemática de fatorial para entender o tratamento do Rust com recursão e loops.
+- **guessing_game:** Um projeto clássico para iniciantes para obter experiência prática com entrada/saída do Rust, aleatoriedade e fluxos de controle básicos.
+- **hello_cargo:** Conheça o Cargo, o gerenciador de pacotes e sistema de construção do Rust, por meio de uma simples aplicação "Hello, World!".
+- **hello_world:** O primeiro passo na programação Rust, imprimindo "Hello, World!" no console.
+- **int_converter:** Aprofunde-se na conversão de tipos em Rust criando uma utilidade que converte entre diferentes tipos de inteiros.
+- **max_number:** Aprenda a processar uma coleção de números para encontrar o valor máximo, mostrando o tratamento do Rust com iteradores e comparações.
+- **media_notas:** Calcule a média de uma série de notas, introduzindo a abordagem do Rust para operações numéricas e entrada do usuário.
+- **mmc:** Descubra o método para calcular o Mínimo Múltiplo Comum (MMC) de dois números, melhorando o entendimento de algoritmos em Rust.
+- **num_primo:** Implemente um verificador de números primos para praticar as construções de controle de fluxo do Rust e suas capacidades eficientes de processamento de números.
+- **palindromo_num:** Crie um programa que verifica se um número é um palíndromo, focando em manipulações de string e numéricas em Rust.
+- **permuta_string:** Explore permutações de string para entender as características de segurança de memória do Rust e suas poderosas capacidades de manipulação de coleções.
+- **playing:** Um projeto de sandbox para experimentar com vários conceitos do Rust e a biblioteca padrão sem um foco específico.
+- **reverse_string:** Desenvolva uma função para reverter strings, mostrando o tratamento do Rust com Unicode e manipulação de strings.
+- **soma_sequencia:** Implemente um calculador de soma de sequência para se familiarizar com loops e iteradores em Rust.
+- **tabuada:** Gere tabelas de multiplicação, fornecendo um exemplo prático de loops aninhados e operações aritméticas básicas.
+- **variables:** Entenda as declarações de variáveis do Rust, mutabilidade e tipos de dados básicos por meio de exemplos simples.
+
+## Começando
+
+Para mergulhar nesses projetos, certifique-se de ter o Rust e o Cargo instalados em sua máquina. Você pode instalar ambos seguindo o guia oficial em [https://www.rust-lang.org/tools/install](https://www.rust-lang.org/tools/install).
+
+Para executar qualquer projeto, clone este repositório, navegue até o diretório do projeto e use o Cargo para construir e executar o projeto:
+
+```bash
+git clone https://github.com/yourusername/rust-practice.git
+cd rust-practice/diretorio-do-projeto
+cargo run
+```
+
+
