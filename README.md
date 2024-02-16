@@ -61,12 +61,11 @@ Feel free to contribute to any of the projects by submitting pull requests or op
 
 -------------------------------------------------------------------
 
-[Pt-br]
 
 [PT-BR]
-# Projetos de Aprendizado em Rust
+# Projetos de Prática de Rust
 
-Bem-vindo à minha coleção de projetos de aprendizado em Rust! Este repositório é dedicado a explorar, aprender e praticar os recursos comuns da linguagem de programação Rust por meio de uma série de projetos pequenos e focados. Cada projeto aborda diferentes aspectos do Rust, tornando esta compilação um guia abrangente para qualquer pessoa que deseje aprofundar seu entendimento da linguagem.
+Este repositório é dedicado a explorar, aprender e praticar os recursos comuns da linguagem de programação Rust por meio de uma série de projetos pequenos e focados. Cada projeto aborda diferentes aspectos do Rust, tornando esta compilação um guia abrangente para qualquer pessoa que deseje aprofundar seu entendimento da linguagem.
 
 ## Introdução
 
